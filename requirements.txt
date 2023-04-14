@@ -1,0 +1,15 @@
+scikit-image==0.19.3
+pytesseract==0.3.10
+spacy==3.1.7
+es-core-news-sm==3.1.0
+syltippy==1.0
+pdf2image==1.16.2
+fpdf==1.7.2
+PyPDF2==2.9.0
+fpdf2==2.6.1
+matplotlib==3.5.2
+fastapi
+uvicorn
+fitz
+PyMuPDF
+numpy
